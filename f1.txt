@@ -1,1 +1,1 @@
-f1.txt file in dev1 master branch
+f1.txt file in dev1 master branch, dev2 updated
